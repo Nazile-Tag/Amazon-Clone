@@ -1,6 +1,16 @@
-# Installation Steps
+# Amazon-Clone
+## In this project I used;
+* ReactJs
+* NextJs
+* Firebase
+* Redux
+* Tailwind CSS
+* Deployed with Vercel 
 
+# Amazon Clone Link => [Click Me!](https://amazon-clone-ten-jet.vercel.app/)
 
+### ```Author```
+### Nazile Tağ
 
 ## Using npm
 
